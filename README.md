@@ -9,7 +9,7 @@ PROCASTINADOR KKKKKK, E por mais incrível que pareça, Ate agora esta tudo send
 
 # Linguagens:
 
-<script type="text/javascript" src="https://python.org/" data-name="bmc-button" data-slug="mferreiranr" data-color="#40DCA5" data-emoji="🐍" data-font="Lato" data-text="Python" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
+
 
 
 https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5
