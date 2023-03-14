@@ -8,12 +8,10 @@ PROCASTINADOR KKKKKK, E por mais incrível que pareça, Ate agora esta tudo send
 
 
 # Linguagens:
-
-
-
-
 https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5
+
 https://www.kernel.org/doc/html/latest/
+
 https://git-scm.com/
 
 
