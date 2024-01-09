@@ -31,6 +31,23 @@
 </div>
 
 ## Let's get in touch
+
+<br clear="both">
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/matheus-a-40096a150/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="tryhackme.com/p/MFerreira" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="52" height="40" alt="tryhackme logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  <a href="https://www.hackerrank.com/profile/mferreira_nina" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
+  </a>
+</div>
+
 <p align="left">
   <a href="https://www.linkedin.com/in/matheus-a-40096a150/" title="LinkedIn">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
