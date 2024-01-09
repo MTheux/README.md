@@ -13,7 +13,7 @@
 ## 🚀 My Tech Stack
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,Java,js,py,linux,docker" />
+    <img src="https://skillicons.dev/icons?i=html,java,js,py,linux,docker" />
   </a>
 </p> 
 
