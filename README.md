@@ -5,7 +5,7 @@
 <h3> Navigating life's source code.</h3>
 
 <p align="left">
-• 🎓 Technology undergraduate at <a href="https://unifan.net.br">UNIFAN</a>.<BR>
+• 🎓 Certified Pentester <a href="https://www.credly.com/badges/1012fc8a-0747-4cb8-bd90-2613564df63f/">PENTEST+</a>.<BR>
 • 🧠 Enhancing my skills at <a href="https://tryhackme.com/p/MFerreira">TryHACKme</a>.<BR>
 • 💻 Editor and DEV at <a href="https://www.synkode.com">SYNKODE</a>.<BR>
 </p>
