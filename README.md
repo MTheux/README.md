@@ -32,7 +32,7 @@
 />
 
 ## Let's get in touch
-<p align="right">
+<p align="left">
   <a href="https://www.linkedin.com/in/matheus-a-40096a150/" title="LinkedIn">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
