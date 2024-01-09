@@ -25,12 +25,13 @@
 </p> 
 
 ## 📈 Statistics
+<p 
 <img
- <p align="left"
+   align="left"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=SYNKOD3&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
   alt="Github stats"
-</p>   
 />
+</p>   
 
 ## Let's get in touch
 <p align="left">
