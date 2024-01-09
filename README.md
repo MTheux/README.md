@@ -6,7 +6,7 @@
 
 <p align="left">
 • 🎓 Technology undergraduate at <a href="https://unifan.net.br">UNIFAN</a>.<BR>
-• 🧠 Enhancing my skills at <a href="https://www.alura.com.br">Alura</a>.<BR>
+• 🧠 Enhancing my skills at <a href="https://tryhackme.com/p/MFerreira">TryHACKme</a>.<BR>
 • 💻 Editor and DEV at <a href="https://www.synkode.com">SYNKODE</a>.<BR>
 </p>
 
