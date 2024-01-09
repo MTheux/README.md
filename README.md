@@ -50,7 +50,11 @@
   </a>
 </div>
 
+
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/MTheux/MTheux/output/snake.svg" alt="Snake animation" />
+
 
 
 
