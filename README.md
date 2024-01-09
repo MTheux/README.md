@@ -17,7 +17,7 @@
   </a>
 </p> 
 
-## 🛠️ Development tools
+## 🛠️ Tools I use on a daily basis
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=bash,docker,github,linux,postman,py,wordpress,vscode,raspberrypi,html,java,js,discord" /> 
