@@ -32,17 +32,17 @@
 />
 
 <p align="right">
-  <a href="https://www.linkedin.com/in/synkode/" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/matheus-a-40096a150/" title="LinkedIn">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 <p align="right">
-  <a href="https://api.whatsapp.com/send?phone=5575992380053&text=Ol%C3%A1,%20vim%20atrav%C3%A9s%20do%20seu%20GitHub." title="WhatsApp">
+  <a href="https://api.whatsapp.com/send?phone=5511960226415&text=Ol%C3%A1,%20vim%20atrav%C3%A9s%20do%20seu%20GitHub." title="WhatsApp">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </p>
  
 <p align="right">
-  <a href="https://www.instagram.com/thiagocr_/" title="Instagram">
+  <a href="" title="Instagram">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
