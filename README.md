@@ -30,7 +30,7 @@
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=SYNKOD3&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
   alt="Github stats"
 />
-## Let's get in touch
+                ## Let's get in touch
 <p align="left">
   <a href="https://www.linkedin.com/in/matheus-a-40096a150/" title="LinkedIn">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
