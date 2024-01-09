@@ -26,22 +26,29 @@
 
 ## 📈 Statistics
 <img
-  align="left"
+ <p align="left"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=SYNKOD3&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
   alt="Github stats"
+</p>   
 />
-                ## Let's get in touch
+
+## Let's get in touch
 <p align="left">
   <a href="https://www.linkedin.com/in/matheus-a-40096a150/" title="LinkedIn">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
+
 <p align="left">
   <a href="" title="Discord">
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
 </p>
+
 <p align="left">
   <a href="https://api.whatsapp.com/send?phone=5511960226415&text=Ol%C3%A1,%20vim%20atrav%C3%A9s%20do%20seu%20GitHub." title="WhatsApp">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
 </p>
 
 
