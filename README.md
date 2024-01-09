@@ -37,16 +37,16 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
-<p align="right">
-  <a href="https://api.whatsapp.com/send?phone=5511960226415&text=Ol%C3%A1,%20vim%20atrav%C3%A9s%20do%20seu%20GitHub." title="WhatsApp">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-</p>
- 
-<p align="right">
+<p align="left">
   <a href="" title="Discord">
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
 </p>
 
+<p align="left">
+  <a href="https://api.whatsapp.com/send?phone=5511960226415&text=Ol%C3%A1,%20vim%20atrav%C3%A9s%20do%20seu%20GitHub." title="WhatsApp">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+</p>
+ 
 <!---
 Mftheux/Mftheux is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
