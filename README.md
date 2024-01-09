@@ -20,7 +20,7 @@
 ## 🛠️ Development tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pr,ae,ps,vscode,figma,wordpress,git,github,discord" /> 
+    <img src="https://skillicons.dev/icons?i=bash,docker,github,linux,postman,py,wordpress,vscode,raspberrypi,html,kava,js,discord" /> 
   </a>
 </p> 
 
@@ -47,6 +47,6 @@
 </p>
 
 <!---
-SYNKOD3/SYNKOD3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mftheux/Mftheux is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
